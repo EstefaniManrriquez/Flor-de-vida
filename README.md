@@ -26,9 +26,8 @@ El procedimiento consistió en:
    * ( x = r \cos(\theta) )
    * ( y = r \sin(\theta) )
 6. Incrementar el ángulo en intervalos de 60° para lograr una distribución uniforme.
-   
-Imagen 1: código
-![código](guión.png)
+ 
+![código](scrip.png)
 
 ## Resultados
 
@@ -40,7 +39,6 @@ El script generó correctamente la figura compuesta por siete círculos de igual
 
 La figura obtenida presenta simetría radial y precisión geométrica.
 
-Imagen : Flor de vida 
 ![Flor de vida generada](resultado.png)
 
 ## Conclusión
